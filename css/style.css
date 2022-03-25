@@ -3,8 +3,11 @@ body{ width: 100%; height: 100%;background: #9F5445;}
 
 .fondo-circulos {width: 100%; height: 300px; position: absolute; }
 .fondo-circulos .circle-speaker{width: 18em;height: 18em;background: #804438; clip-path: circle(50%);float: left; margin-top: -50px; margin-left: -50px; }
-.fondo-circulos .circle-speaker i{width: 120px;height: 80px;font-size: 2em;color: #fff; margin-left: 100px;}
+.fondo-circulos .circle-speaker i.gg-music-speaker{ margin-left: 75px;margin-top: 65px; color: #fff;--ggs: 1.5;}
+
+
 .fondo-circulos .circle-profile{width: 5em;height: 5em;background: #804438; clip-path: circle(50%); float: right; margin-right: 80px; }
+.fondo-circulos .circle-profile i.gg-profile{ margin-left: 25px;margin-top: 27px; color: #fff;--ggs: 1.5;}
 
 .fondo-circulos .circle{width: 3em;height: 3em;background: #804438; clip-path: circle(50%); float: right; margin-top: 100px; margin-right: -120px; }
 .fondo-circulos .circle-2{width: 3em;height: 3em;background: #804438; clip-path: circle(50%); float: left; margin-top: 240px; }
@@ -14,7 +17,9 @@ body{ width: 100%; height: 100%;background: #9F5445;}
 
 .fondo-circulos .circle-modegame {width: 6em;height: 6em;background: #804438; clip-path: circle(50%); float: left; margin-top: 50px; margin-left: 250px;}
 .fondo-circulos .circle-play     {width: 12em;height: 12em;background: #804438; clip-path: circle(50%); float: left; margin-left: 220px;}
+.fondo-circulos .circle-play i.gg-play-button{ margin-left: 75px;margin-top: 75px; color: #fff;--ggs: 8;}
 .fondo-circulos .circle-ranking  {width: 6em;height: 6em;background: #804438; clip-path: circle(50%); float: right; margin-top: 50px;margin-right: 250px;}
+.fondo-circulos .circle-ranking i.gg-trophy{ margin-left: 40px;margin-top: 40px; color: #fff;--ggs: 2;}
 
 .fondo-circulos .circle-3{width: 3em;height: 3em;background: #804438; clip-path: circle(50%); float: left; margin-left: 50px ;margin-top: 0px;}
 .fondo-circulos .circle-4{width: 3em;height: 3em;background: #804438; clip-path: circle(50%); float: right; margin-right: 150px;}
