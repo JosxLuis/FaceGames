@@ -78,7 +78,23 @@ overflow hidden
     transform: translate(-50%, -50%);
     width: 50%;
   }
+  .jumbotron { 
+    padding: 50px;
+    border-radius: 20px;
+    background-color: #804438;
+    margin-top: 40px;
+  }
+  .JLabel { 
+    font-size: 20px;
+  }
+  .buttonForm{
+    width:50%;
+    margin-left:25%;
+    margin-right:25%;
+
+  }
   
+
 
  #Font-Face
 ================================================== */
